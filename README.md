@@ -8,7 +8,7 @@ stringのみで構成されたでテトリスが遊べます。
 プレイ画面です。VScodeの初期設定されているフォントを用いるとうまくいきます。
 ![tetris for c 改](https://github.com/takagiyuusuke/TETRIS-for-c/assets/142160956/2679a1a6-ae1f-4ffa-947b-28c1c2c21f59)  
 基本のテトリスのルール・動作は実装されています。(高度な回転入れは未実装)  
-  
+※より高度なTETRISは [python版](https://github.com/takagiyuusuke/TETRIS-for-python) で実装されています。ぜひご覧ください。    
 操作：  
 
 - d→左移動
